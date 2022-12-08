@@ -37,7 +37,6 @@ nav {
 li {
     display: inline-block;
     margin-left: 25px;
-    list-style-type: none;
 }
 
 /* Makes links from the nav maintain their style even after being selected */
