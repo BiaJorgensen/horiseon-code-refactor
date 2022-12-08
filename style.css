@@ -1,3 +1,4 @@
+/* Makes all elements from page to co-exist inside one box */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -32,12 +33,14 @@ nav {
     font-size: 20px;
 }
 
+/* Changes items from one in each line to have them all in one line with a distance of 25px in between them */
 li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
 
+/* Makes links from the nav maintain their style even after being selected */
 a {
     color: #ffffff;
     text-decoration: none;
