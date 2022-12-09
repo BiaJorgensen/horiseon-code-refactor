@@ -19,3 +19,13 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Link to live website
+
+https://biajorgensen.github.io/horiseon-code-refactor/
+
+## Website preview
+
+![Webpage_demo](./images/horiseon-code-refactor-demo.png)
+
+
