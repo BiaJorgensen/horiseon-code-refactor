@@ -28,4 +28,5 @@ https://biajorgensen.github.io/horiseon-code-refactor/
 
 ![Webpage_demo](./images/horiseon-code-refactor-demo.png)
 
+Disclaimer: This image has been provided by University of Minnesota Full Stack Bootcamp
 
